@@ -11,6 +11,7 @@ This is being built as a part of the community livestreams:
 
 - [Link to YouTube Channel](https://www.youtube.com/c/ChaiTimeDataScience)
 - [Link to lecture 1](https://www.youtube.com/watch?v=cwgK7bA-QtY)
+- [Link to lecture 2](https://www.youtube.com/watch?v=Db7B8yBAnHQ)
 
-First Notebook will be uploaded after the livestream, any/all community contributions are welcome! The goal is to learn together with everyone 🙏
+Community contributions for the 2nd notebook are welcome 🙏 I'll push one before the third lecture incase others are busy 😄
 
